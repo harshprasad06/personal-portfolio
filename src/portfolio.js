@@ -19,8 +19,8 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Harsh Kumar",
-  logo_name: "Harsh Kumar",
+  title: "Harsh Prasad",
+  logo_name: "Harsh Prasad",
   nickname: "Developer",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
