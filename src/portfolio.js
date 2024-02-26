@@ -7,20 +7,20 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Harsh Prasad's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Harsh Prasad",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://harshprasad06.github.io/personal-portfolio",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Harsh Prasad Portfolio",
-  logo_name: "Harsh Prasad Portfolio",
+  title: "Harsh Prasad",
+  logo_name: "Harsh Prasad",
   nickname: "Developer",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
