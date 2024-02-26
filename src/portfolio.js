@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -19,8 +19,8 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Harsh Prasad",
-  logo_name: "Harsh Prasad",
+  title: "Harsh Kumar",
+  logo_name: "Harsh Kumar",
   nickname: "Developer",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
