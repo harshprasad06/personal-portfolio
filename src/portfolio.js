@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+    "https://drive.google.com/file/d/1ByK6soRMap71bCi8vgkrrb-w1FvII_Du/view?usp=drive_link",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  githubProfile: "https://github.com/harshprasad06",
 };
 
 const socialMediaLinks = [
@@ -350,7 +350,7 @@ const degrees = {
     {
       title: "Indian Institute of Computer Science Delhi",
       subtitle: "Diploma in Website Development",
-      logo_path: "iiitk_logo.png",
+      logo_path: "iics_logo.jpg",
       alt_name: "IICS Delhi",
       duration: "2021 - 2023",
       descriptions: [
@@ -363,7 +363,7 @@ const degrees = {
     {
       title: "Delhi University",
       subtitle: "BA PROGRAMME",
-      logo_path: "iu_logo.png",
+      logo_path: "du_logo.png",
       alt_name: "Delhi University",
       duration: "2021 - 2024",
       descriptions: [
@@ -379,113 +379,122 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
+      title: "Html & CSS",
+      subtitle: "- Harsh Prasad",
+      logo_path: "iics_logo.jpg",
+      // certificate_link:
+        // "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+      alt_name: "IICS INDIA",
+      color_code: "#FFFFF7",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+      title: "Javscript",
+      subtitle: "- Harsh Prasad",
+      logo_path: "iics_logo.jpg",
+      // certificate_link:
+        // "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+      alt_name: "IICS INDIA",
+      color_code: "#FFFFF7",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+      title: "illustrator",
+      subtitle: "- Harsh Prasad",
+      logo_path: "iics_logo.jpg",
+      // certificate_link:
+        // "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
       alt_name: "Google",
-      color_code: "#0C9D5899",
+      color_code: "#FFFFF7",
     },
     {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+      title: "Python",
+      subtitle: "- Harsh Prasad",
+      logo_path: "iics_logo.jpg",
+      // certificate_link:
+        // "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
       alt_name: "Google",
-      color_code: "#0C9D5899",
+      color_code: "#FFFFF7",
     },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
+    // {
+    //   title: "Data Science",
+    //   subtitle: "- Alex Aklson",
+    //   logo_path: "ibm_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+    //   alt_name: "IBM",
+    //   color_code: "#1F70C199",
+    // },
+    // {
+    //   title: "Big Data",
+    //   subtitle: "- Kim Akers",
+    //   logo_path: "microsoft_logo.png",
+    //   certificate_link:
+    //     "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+    //   alt_name: "Microsoft",
+    //   color_code: "#D83B0199",
+    // },
+    // {
+    //   title: "Advanced Data Science",
+    //   subtitle: "- Romeo Kienzler",
+    //   logo_path: "ibm_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
+    //   alt_name: "IBM",
+    //   color_code: "#1F70C199",
+    // },
+    // {
+    //   title: "Advanced ML on GCP",
+    //   subtitle: "- GCP Training",
+    //   logo_path: "google_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+    //   alt_name: "Google",
+    //   color_code: "#0C9D5899",
+    // },
+    // {
+    //   title: "DL on Tensorflow",
+    //   subtitle: "- Laurence Moroney",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#00000099",
+    // },
+    // {
+    //   title: "Fullstack Development",
+    //   subtitle: "- Jogesh Muppala",
+    //   logo_path: "coursera_logo.png",
+    //   certificate_link:
+    //     "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+    //   alt_name: "Coursera",
+    //   color_code: "#2A73CC",
+    // },
+    // {
+    //   title: "Kuberenetes on GCP",
+    //   subtitle: "- Qwiklabs",
+    //   logo_path: "gcp_logo.png",
+    //   certificate_link:
+    //     "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+    //   alt_name: "GCP",
+    //   color_code: "#4285F499",
+    // },
+    // {
+    //   title: "Cryptography",
+    //   subtitle: "- Saurabh Mukhopadhyay",
+    //   logo_path: "nptel_logo.png",
+    //   certificate_link:
+    //     "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+    //   alt_name: "NPTEL",
+    //   color_code: "#FFBB0099",
+    // },
+    // {
+    //   title: "Cloud Architecture",
+    //   subtitle: "- Qwiklabs",
+    //   logo_path: "gcp_logo.png",
+    //   certificate_link:
+    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+    //   alt_name: "GCP",
+    //   color_code: "#4285F499",
+    // },
   ],
 };
 
@@ -494,7 +503,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving Company as React and Recat Native Developer, Designer.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -506,7 +515,7 @@ const experience = {
           title: "React Native Developer",
           company: "Cyno pharmaceuticals ltd",
           company_url: "https://www.cyno.co.in/",
-          logo_path: "muffito_logo.png",
+          logo_path: "cyno_logo.jpeg",
           duration: "Present",
           location: "Nirman Vihar, Delhi",
           description:
@@ -533,7 +542,7 @@ const experience = {
           title: "React Native Developer",
           company: "Cyno pharmaceuticals ltd",
           company_url: "https://www.cyno.co.in/",
-          logo_path: "tiktok_logo.png",
+          logo_path: "cyno_logo.jpeg",
           duration: "Nov 2023 - Feb 2024",
           location: "Nirman Vihar, Delhi",
           description:
@@ -544,7 +553,7 @@ const experience = {
           title: "Web Developer Intern",
           company: "SriRam Soft Solution Pvt Ltd.",
           company_url: "https://www.sriramsoft.com/",
-          logo_path: "delhivery_logo.png",
+          logo_path: "sriram_logo.png",
           duration: "Aug 2023 - Sept 2023",
           location: "East Azad Nagar, Delhi",
           description:
@@ -572,7 +581,7 @@ const experience = {
           title: "Indian Insititue of Computer Science  Facilitator",
           company: "IICS",
           company_url: "https://www.iicsindia.com/",
-          logo_path: "google_logo.png",
+          logo_path: "iics_logo.jpg",
           duration: "Jan 2022 -  Dec-2023",
           location: "Yaumuna Vihar, Delhi",
           description:
@@ -633,14 +642,14 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create React , React Native , HTML , CSS , JS , PHP , Django projects and deploy them to web applications.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
-  title: "Publications",
+  title: "Publish Projects",
   description:
-    "I have worked on and published a few research papers and publications of my own.",
+    "All the publish projects",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -648,44 +657,52 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
+      name: "Pehnawa Delhi",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      description: "Dynamic E-commerce Platform specialize in women's ethnic  wear, offering an extensive range of suits , sarees,and lehngas",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://www.pehnawadelhi.com/",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-      name: "Artificial Intelligence Paper",
+      name: "Go Books",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      description: "Dynamic E-commerce Platform specialize School Books Purchase site, the platform offered a user-friendly interface allowing user to browse and purchase books",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://www.goschoolbooks.com/",
     },
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-      name: "Artificial Intelligence Paper",
+      name: "Univeral Logistic",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      description: "Static Logistic site for present ,the platform offered a user-friendly interface allowing user to visit site.",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://www.universalfreightlogistics.in/"
     },
     {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-      name: "Artificial Intelligence Paper",
+      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "Art of Anurag",
       createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      description: "Static Portfolio site for present a painting artist ,the platform offered a user-friendly interface allowing user to visit site.",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://www.artofanurag.com/",
     },
-    {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    },
+    // {
+    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
+    //   name: "Artificial Intelligence Paper",
+    //   createdAt: "2020-03-06T16:26:54Z",
+    //   description: "Paper Written on Artificial Intelligence published in xyz ",
+    //   url:
+    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+    // },
+    // {
+    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
+    //   name: "Artificial Intelligence Paper",
+    //   createdAt: "2020-03-06T16:26:54Z",
+    //   description: "Paper Written on Artificial Intelligence published in xyz ",
+    //   url:
+    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+    // },
   ],
 };
 
@@ -695,7 +712,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React, React Native, Python , Django and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
@@ -707,14 +724,14 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "Gokalpuri, Dist.-Sabhapur, Delhi - 110094",
     locality: "Kanodar",
     country: "IN",
     region: "Gujarat",
     postalCode: "385520",
     streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://www.google.com/maps/place/CodewithHarsh/@28.7048315,77.2781645,17z/data=!3m1!4b1!4m6!3m5!1s0x390cfd78f39ffb79:0x7071d48057040aac!8m2!3d28.7048268!4d77.2807394!16s%2Fg%2F11t40b1ypw?entry=ttu",
   },
   phoneSection: {
     title: "",
