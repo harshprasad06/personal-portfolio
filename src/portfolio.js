@@ -92,8 +92,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Developing mobile applications using React Native and solo android apps",
+        "⚡ Creating application backend in Node, Express & Django",
       ],
       softwareSkills: [
         {
@@ -178,8 +178,8 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Deploying  on cloud to use on mobile devices",
+        "⚡ Setting up streaming jobs from DB to Server on GCP",
       ],
       softwareSkills: [
         {
@@ -344,7 +344,6 @@ const competitiveSites = {
     // },
   ],
 };
-
 const degrees = {
   degrees: [
     {
@@ -354,9 +353,9 @@ const degrees = {
       alt_name: "IICS Delhi",
       duration: "2021 - 2023",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Completed an intensive web developer course at IICS Institute, gaining proficiency in HTML, CSS, PHP, JS.",
+        "⚡ Acquired practical skills in web development through hands-on projects and assignments.",
+        "⚡ Developed a strong foundation in front-end and back-end technologies, ready to create dynamic and responsive websites.",
       ],
       website_link: "https://www.iicsindia.com/",
     },
@@ -367,9 +366,9 @@ const degrees = {
       alt_name: "Delhi University",
       duration: "2021 - 2024",
       descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+        "⚡ Graduated with a BA Programme from Delhi University, gaining a diverse and holistic education.",
+        "⚡ Developed strong analytical and critical thinking skills through a wide range of subjects.",
+        "⚡ Expanded my knowledge base and understanding of various disciplines, laying a strong foundation for my career.",
       ],
       website_link: "https://sol.du.ac.in/",
     },
@@ -519,7 +518,7 @@ const experience = {
           duration: "Present",
           location: "Nirman Vihar, Delhi",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "At Cyno Pharmaceuticals Ltd, I am responsible for developing mobile applications using React Native. My role involves working closely with the team to design, develop, and implement features that enhance the user experience. I also contribute to the overall architecture and design of the applications to ensure they meet the company's standards and requirements.",
           color: "#9b1578",
         },
         // {
@@ -546,7 +545,7 @@ const experience = {
           duration: "Nov 2023 - Feb 2024",
           location: "Nirman Vihar, Delhi",
           description:
-            "Building new features on the backend recommendation system, specifically ranking algorithms for Ads that touch hundreds of millions of people around the world. Improving online and offline content ranking algorithms by performing hard sample data replays for training steps.",
+          "As a React Native Developer Intern at Cyno Pharmaceuticals Ltd, I am gaining valuable experience in mobile app development. My responsibilities include assisting in the development of React Native applications, collaborating with the team to implement new features, and learning best practices in software development. I am eager to contribute to the team and enhance my skills in a professional environment.",
           color: "#000000",
         },
         {
@@ -557,7 +556,7 @@ const experience = {
           duration: "Aug 2023 - Sept 2023",
           location: "East Azad Nagar, Delhi",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "As a Web Developer Intern at SriRam Soft Solution Pvt Ltd, I am gaining hands-on experience in web development. My responsibilities include working on various projects, learning new technologies, and collaborating with the team to develop and maintain web applications. I am enthusiastic about expanding my skills and contributing to the company's projects.",
           color: "#ee3c26",
         },
         // {
@@ -585,7 +584,7 @@ const experience = {
           duration: "Jan 2022 -  Dec-2023",
           location: "Yaumuna Vihar, Delhi",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+          "As a Volunteer Facilitator at the Indian Institute of Computer Science, I support and assist students in their learning activities. My role involves guiding students, answering their queries, and helping them understand complex concepts. I also contribute to creating a positive and engaging learning environment for the students.",
           color: "#4285F4",
         },
         // {
@@ -724,7 +723,7 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Gokalpuri, Dist.-Sabhapur, Delhi - 110094",
+      "Delhi , India",
     locality: "Kanodar",
     country: "IN",
     region: "Gujarat",
