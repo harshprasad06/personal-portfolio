@@ -299,7 +299,7 @@ const competitiveSites = {
         color: "#F79F1B",
       },
       // profileLink: "https://leetcode.com/layman_brother/",
-      profileLink:'#'
+      profileLink:'https://leetcode.com/harshprasad06/'
     },
     {
       siteName: "HackerRank",
